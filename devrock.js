@@ -27,7 +27,7 @@ console.clear();
 // Shafed Billi (White Cat) Banner
 console.log(`\x1b[36m
    /\\_/\\  
-  ( o.o )  SHAFED BILLI
+  ( o.o )  BILLI BOT
    > ^ <   Music System
 \x1b[0m`);
 Logger.ready("System Initialized! Spawning Clusters...");
